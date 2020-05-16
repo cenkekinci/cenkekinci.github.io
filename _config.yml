@@ -1,0 +1,83 @@
+# Site settings
+title: Klise Theme
+description: >-
+  He's writing in Bahasa about web technology and experience as a journal 
+  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+lang: en-US 
+timezone: Europe/Istanbul
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/piharpi/mahendrata.now.sh
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Cenk Ekinci
+  bio: >-
+    Quallty Assurance Tester <a href="https://github.com/useinsider" target="_blank" rel="noopener">@Insider</a>.
+    | Human.
+  username: username
+  email: your-email@email.com
+  avatar: https://pbs.twimg.com/profile_images/2363009840/hjh8endivtvlvsfza1j5_400x400.jpeg
+
+# Url settings
+url: ""
+baseurl:
+permalink: /:title/
+google_analytics:
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Build settings
+sass:
+  style: compressed
+remote_theme:
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sass-converter
+  - jekyll-sitemap
+  - jekyll-postfiles
