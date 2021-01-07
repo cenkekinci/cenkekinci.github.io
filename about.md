@@ -1,18 +1,24 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Say some message
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+###### well...
+I'm graduated of Management Information System. I interest most: IT and Infomatics systems. 
 
-If you have a question about him or else, just send a letter to him.
+---
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**My hobbies are:** *Googling in my head, listening to podcasts, attending events and trip sometimes with my car.*
 
-**may u needs ✨**
+---
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+##### For those interested in technical skills, job history and more: Below you can find links to Linkedin and Social media. Thanks 🙏
+
+---
+
+##### ma links:
+
+[twitter](https://twitter.com/cenkekincii) | [linkedin](https://www.linkedin.com/in/cenkekinci/) | [github](https://github.com/cenkekinci) | [spotify](https://open.spotify.com/user/alfaekinci) | [soundcloud](https://soundcloud.com/alfaekinci)

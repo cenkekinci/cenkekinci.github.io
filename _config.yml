@@ -1,8 +1,7 @@
 # Site settings
 title: Ekinci's Space # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  elbet 1 gün...
 lang: en-US # default lang
 timezone: Europe/Istanbul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,9 +11,10 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Cenk Ekinci
-  bio: >-
-    Quallty Assurance Tester <a href="https://github.com/useinsider" target="_blank" rel="noopener">@Insider</a>.
-    | Human.
+  bio: >+
+    horror story of devs. yes, i'm tester. <br>
+    was: (<a href="https://twitter.com/useinsider" target="_blank" rel="noopener">@useinsider</a>. & <a href="https://twitter.com/ozguryazilimas" target="_blank" rel="noopener">@ozguryazilimas</a>.)
+    </br>
   username: username
   email: your-email@email.com
   avatar: https://pbs.twimg.com/profile_images/2363009840/hjh8endivtvlvsfza1j5_400x400.jpeg
