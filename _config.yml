@@ -1,7 +1,7 @@
 # Site settings
 title: Ekinci's Space # site title
 description: >- # site description
-  elbet 1 gün...
+  Yello! This is Cenk Ekinci's personal website.
 lang: en-US # default lang
 timezone: Europe/Istanbul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Cenk Ekinci
   bio: >+
-    horror story of devs. yes, i'm tester. <br>
+    horror story of devs. yes, i'm tester. <a href="https://twitter.com/prismacsi" target="_blank" rel="noopener">@prismacsi</a> <br>
     was: (<a href="https://twitter.com/useinsider" target="_blank" rel="noopener">@useinsider</a>. & <a href="https://twitter.com/ozguryazilimas" target="_blank" rel="noopener">@ozguryazilimas</a>.)
     </br>
   username: username
