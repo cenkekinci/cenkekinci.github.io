@@ -21,4 +21,4 @@ I'm graduated of Management Information System. I interest most: IT and Infomati
 
 ##### ma links:
 
-[twitter](https://twitter.com/cenkekincii) | [linkedin](https://www.linkedin.com/in/cenkekinci/) | [github](https://github.com/cenkekinci) | [spotify](https://open.spotify.com/user/alfaekinci) | [soundcloud](https://soundcloud.com/alfaekinci)
+[twitter](https://twitter.com/cenkekincii) | [linkedin](https://www.linkedin.com/in/cenkekinci/) | [github](https://github.com/cenkekinci) | [spotify](https://open.spotify.com/user/alfaekinci) | [soundcloud](https://soundcloud.com/cenkekinci)
