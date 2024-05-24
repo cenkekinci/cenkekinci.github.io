@@ -12,8 +12,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Cenk Ekinci
   bio: >+
-    horror story of devs. yes, i'm tester. <a href="https://twitter.com/brandefense" target="_blank" rel="noopener">@brandefense</a> <br>
-    was: (<a href="https://twitter.com/useinsider" target="_blank" rel="noopener">@useinsider</a>. & <a href="https://twitter.com/ozguryazilimas" target="_blank" rel="noopener">@ozguryazilimas</a>.)
+    horror story of devs. yes, i'm tester. <br>
+    was: (<a href="https://twitter.com/brandefense" target="_blank" rel="noopener">@brandefense</a> <a href="https://twitter.com/useinsider" target="_blank" rel="noopener">@useinsider</a>. & <a href="https://twitter.com/ozguryazilimas" target="_blank" rel="noopener">@ozguryazilimas</a>.)
     </br>
   username: username
   email: your-email@email.com
